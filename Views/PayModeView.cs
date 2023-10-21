@@ -26,5 +26,20 @@ namespace Supermarket_mvp.Views
         {
 
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabPagePayModeList_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
