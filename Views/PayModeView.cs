@@ -41,5 +41,10 @@ namespace Supermarket_mvp.Views
         {
 
         }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
