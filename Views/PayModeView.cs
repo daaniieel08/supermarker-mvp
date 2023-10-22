@@ -117,5 +117,10 @@ namespace Supermarket_mvp.Views
         {
             DgPayMode.DataSource = payModelist;
         }
+
+        public void SetPayModelistBildingSource(BindingSource payModeBindingSource)
+        {
+            
+        }
     }
 }
