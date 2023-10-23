@@ -290,8 +290,11 @@
             // 
             TxtPayModeId.Location = new Point(8, 38);
             TxtPayModeId.Name = "TxtPayModeId";
+            TxtPayModeId.ReadOnly = true;
             TxtPayModeId.Size = new Size(211, 23);
             TxtPayModeId.TabIndex = 6;
+            TxtPayModeId.Text = "0";
+            TxtPayModeId.TextAlign = HorizontalAlignment.Right;
             TxtPayModeId.TextChanged += textBox1_TextChanged;
             // 
             // PayModeView
